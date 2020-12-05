@@ -1,0 +1,7 @@
+name: Splat
+version: ${project.version}
+main: me.delected.splat.Splat
+
+commands:
+  gm:
+    description: 'a'
